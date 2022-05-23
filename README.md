@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **alia.a.saddik@gmail.com, alia.saddik@outlook.com, alia.saleh@student.guc.edu.eg**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dBPeA_8oE-9Y4axa2WMrCZx4u9g6Xc-W/view?usp=sharing](https://drive.google.com/file/d/1dBPeA_8oE-9Y4axa2WMrCZx4u9g6Xc-W/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alia-saddik-62085018b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alia-saddik-62085018b/" height="30" width="40" /></a>
