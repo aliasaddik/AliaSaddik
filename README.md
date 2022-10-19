@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alia Saddik</h1>
-<h3 align="center">A junior Computer Engineering Student at German University in Cairo</h3>
+<h3 align="center">A senior Computer Engineering Student at German University in Cairo</h3>
 
 - 🔭 I’m currently working on my bachelor project **Java/Web3 Framework**
 
