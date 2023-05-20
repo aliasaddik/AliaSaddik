@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alia Saddik</h1>
 <h3 align="center">A senior Computer Engineering Student at German University in Cairo</h3>
 
-- 🔭 I’m currently working on my bachelor project **Java/Web3 Framework**
+ - 👨‍💻 All of my projects are available at [https://github.com/aliasaddik?tab=repositories](https://github.com/aliasaddik?tab=repositories)
 
-- 🌱 I’m currently learning **OOP, Data Structures and algorithms and Kotlin.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/aliasaddik?tab=repositories](https://github.com/aliasaddik?tab=repositories)
-
-- 💬 Ask me about **Java/OOP**
-
-- 📫 How to reach me **alia.a.saddik@gmail.com, alia.saddik@outlook.com, alia.saleh@student.guc.edu.eg**
+ - 📫 How to reach me **alia.a.saddik@gmail.com, alia.saddik@outlook.com, alia.saleh@student.guc.edu.eg**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dBPeA_8oE-9Y4axa2WMrCZx4u9g6Xc-W/view?usp=sharing](https://drive.google.com/file/d/1dBPeA_8oE-9Y4axa2WMrCZx4u9g6Xc-W/view?usp=sharing)
 
