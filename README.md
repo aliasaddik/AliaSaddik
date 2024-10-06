@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alia Saddik</h1>
-<h3 align="center">A senior Computer Engineering Student at German University in Cairo</h3>
+<h3 align="center">A Junior Software Engineer</h3>
 
  - 👨‍💻 All of my projects are available at [https://github.com/aliasaddik?tab=repositories](https://github.com/aliasaddik?tab=repositories)
 
