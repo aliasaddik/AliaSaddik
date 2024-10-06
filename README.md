@@ -3,9 +3,9 @@
 
  - 👨‍💻 All of my projects are available at [https://github.com/aliasaddik?tab=repositories](https://github.com/aliasaddik?tab=repositories)
 
- - 📫 How to reach me **alia.a.saddik@gmail.com, alia.saddik@outlook.com, alia.saleh@student.guc.edu.eg**
+ - 📫 How to reach me **alia.a.saddik@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dBPeA_8oE-9Y4axa2WMrCZx4u9g6Xc-W/view?usp=sharing](https://drive.google.com/file/d/1dBPeA_8oE-9Y4axa2WMrCZx4u9g6Xc-W/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cfMptnU8FrxbYCfrfMTczKVWEK9eA5mi/view?usp=sharing](https://drive.google.com/file/d/1cfMptnU8FrxbYCfrfMTczKVWEK9eA5mi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
